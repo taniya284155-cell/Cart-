@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Vendor E-Commerce Platform",
+  "description": "A comprehensive, high-fidelity e-commerce portal featuring separate interfaces and dashboards for Customers, Sellers, Delivery Partners, and Admins, powered by a relational Express backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
